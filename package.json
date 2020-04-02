@@ -1,0 +1,21 @@
+{
+  "name": "ddanchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "blockChain.js",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "elliptic": "^6.5.2",
+    "jest": "^25.1.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "devDependencies": {"jest": "^25.1.0"},
+  "scripts": {
+    "test": "jest",
+   
+  },
+  "author": "ddan",
+  "license": "MIT"
+}
